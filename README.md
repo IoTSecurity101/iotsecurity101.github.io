@@ -17,6 +17,6 @@
   <https://github.com/IoTSecurity101>
   
 ## Funding US to develop more Opensecurity tools for IoT
-PaypalUS :https://www.paypal.me/v33ruiot
-Buy Coffee to Our champs : https://ko-fi.com/Y8Y81EJG9
+- PaypalUS :https://www.paypal.me/v33ruiot
+- Buy Coffee to Our champs : https://ko-fi.com/Y8Y81EJG9
 

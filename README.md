@@ -4,15 +4,16 @@
 
 
 
-## Telegram group for IoT Pentesting Learning
+## Telegram & Discord group for community
 
   <https://t.me/iotsecurity1011>
+  <https://discord.gg/EH9dxT9>
 
 ## IoT-PT OS for hacking the IoT devices
 
   <https://github.com/IoT-PTv/IoT-PT>
   
-## Github Repo for community 
+## Github Repo  
 
   <https://github.com/IoTSecurity101>
   

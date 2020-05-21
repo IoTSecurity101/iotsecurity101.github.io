@@ -18,6 +18,6 @@
   <https://github.com/IoTSecurity101>
   
 ## Support our IoTSecurity101 Community
-- PaypalUS : <https://www.paypal.me/v33ruiot>
+
 - Buy Coffee to Our champs : <https://ko-fi.com/Y8Y81EJG9>
 

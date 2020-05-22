@@ -2,7 +2,8 @@
 
     Under Development
 
-
+## Resources for IoT Security
+- <https://github.com/V33RU/IoTSecurity101>
 
 ## Telegram & Discord group for community
 

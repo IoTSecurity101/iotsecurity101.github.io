@@ -7,9 +7,10 @@
 
 ## Telegram & Discord group for community
 
- - <https://t.me/iotsecurity1011>
- - <https://discord.gg/EH9dxT9>
-
+ - Telegram - <https://t.me/iotsecurity1011>
+ - Discord  - <https://discord.gg/EH9dxT9>
+ - Reddit   - <https://www.reddit.com/r/IoTSecurity101/>  
+ 
 ## IoT-PT OS for hacking the IoT devices
 
   <https://github.com/IoT-PTv/IoT-PT>
